@@ -31,19 +31,6 @@
   add_action('wp_enqueue_scripts', 'custom_theme_assets');
 
 
-  // widgets
-  function my_widgets_init() {
-    register_sidebar( array(
-      'name'          => 'Blog Sidebar',
-      'id'            => 'widget-area',
-      'before_widget' => '<div class="widget"><div class="widget-inner">',
-      'after_widget'  => '</div></div>',
-      'before_title'  => '<h3 class="widget-title">',
-      'after_title'   => '</h3>',
-    ) );
-  }add_action( 'widgets_init', 'my_widgets_init' );
-
-
   // remove front admin bar
   show_admin_bar( false );
 
