@@ -138,23 +138,6 @@
   })
 </script>
 
-<!-- JQuery Style Switcher -->
-<script src="<? echo get_template_directory_uri() ?>/assets/js/styleswitcher.js"></script>
-
-<!-- jquery slide in/out option panel -->
-<script type="text/javascript">
-  $(document).ready(function () {
-    $('#menu-toggle').click(function(){
-      if($('#menu').hasClass('open')){
-        $('#menu').removeClass('open');
-        $('#menu-toggle').removeClass('open');
-      }else{
-        $('#menu').addClass('open');
-        $('#menu-toggle').addClass('open');
-      }
-    });
-  });
-</script>
 
 <!-- jquery button -->
 <script>
