@@ -18,19 +18,6 @@
   add_action('after_setup_theme', 'custom_theme_setup');
 
 
-  // assets
-  function custom_theme_assets() {
-    // css
-    wp_enqueue_style('main',          get_template_directory_uri() . '/assets/css/main.css');
-
-    // fonts
-
-    // js scripts
-    wp_enqueue_script('main',       get_template_directory_uri() . '/assets/js/main.js', array('jquery'), '', true);
-  }
-  add_action('wp_enqueue_scripts', 'custom_theme_assets');
-
-
   // remove front admin bar
   show_admin_bar( false );
 

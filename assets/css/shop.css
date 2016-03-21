@@ -1,0 +1,22 @@
+/* shop gallery ( shop also use portfolio sortable styling)
+----------------------------------------------- */
+
+.portfolioContainer > div {
+  width:33.3%;
+}
+
+.portfolioContainer > .col-lg-6 {
+  width:50%;
+}
+
+.portfolioContainer > .col-lg-4 {
+  width:33.3%;
+}
+
+.portfolioContainer > .col-lg-3 {
+  width:25%;
+}
+
+.portfolioContainer > .col-lg-2 {
+  width:16.65%;
+}

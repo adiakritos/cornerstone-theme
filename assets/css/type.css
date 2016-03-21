@@ -1,0 +1,466 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,700);
+@import url(http://fonts.googleapis.com/css?family=Raleway:700);
+
+body {
+color: #333;
+text-shadow:1px 1px 0 #fff; 
+}
+
+html, body, p, .btn, .form-control {
+font-size: 15px;
+font-weight: 300;
+}
+
+/* font family
+----------------------------------------------- */
+
+body {
+font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .navbar
+{
+font-family: 'Raleway', sans-serif;
+letter-spacing: 0.5px;
+text-transform:uppercase;
+}
+
+.typo1 {
+font-family: 'Raleway', sans-serif;
+}
+
+.typo2 {
+font-family: 'Roboto Condensed', sans-serif;
+}
+
+.light {
+letter-spacing: -0.25px;
+}
+
+/* font color
+----------------------------------------------- */
+
+.white {
+color:#fff
+}
+
+.black {
+color:#111
+}
+
+/* dark bg color
+----------------------------------------------- */
+
+.download-section, .blackbg , footer {
+color: #eee;
+text-shadow:none; 
+}
+
+/* no text shadow
+----------------------------------------------- */
+
+.noshadow {
+text-shadow:none; 
+}
+
+/* font character
+----------------------------------------------- */
+
+.uppercase {
+	text-transform: uppercase;
+}
+
+.capitalize {
+	text-transform: capitalize;
+}
+
+.lowercase {
+	text-transform: lowercase;
+}
+
+/* text align
+----------------------------------------------- */
+
+.text-left {
+text-align:left;
+}
+
+.text-right {
+text-align:right;
+}
+
+/* H1, H2, H3, H4, H5, H6
+----------------------------------------------- */
+
+h1, h2, h3, h4, h5, h6 
+{
+margin: 0 0 10px 0;
+line-height: 1em;
+}
+
+
+h1
+{
+font-size:23px;
+}
+
+h2
+{
+font-size:21px;
+}
+
+h3
+{
+font-size:19px;
+}
+
+h4
+{
+font-size:17px;
+}
+
+h5
+{
+font-size:15px;
+}
+
+h6
+{
+font-size:13px;
+}
+
+.h1 .small, .h1 small, .h2 .small, .h2 small, .h3 .small, .h3 small, .h4 .small, .h4 small, .h5 .small, .h5 small, .h6 .small, .h6 small, h1 .small, h1 small, h2 .small, h2 small, h3 .small, h3 small, h4 .small, h4 small, h5 .small, h5 small, h6 .small, h6 small {
+  color:inherit;
+  letter-spacing: -1px
+}
+
+section small, section .small {
+  margin-bottom:5px;
+}
+
+
+p {
+margin: 0 0 25px;
+line-height: 1.3;
+}
+
+.grid2 figcaption h3 {
+text-transform:capitalize;
+font-weight: 500;
+}
+
+
+.view p {
+font-size:small;
+line-height:1em;
+margin:0;
+}
+
+
+/* Font size
+----------------------------------------------- */
+
+.font256 {
+font-size:256px;
+}
+
+.font128 {
+font-size:128px;
+}
+
+.font64 {
+font-size:64px;
+}
+
+.font48 {
+font-size:48px;
+}
+
+.font32 {
+font-size:32px;
+}
+
+.font30 {
+font-size:30px;
+}
+
+.font28 {
+font-size:28px;
+}
+
+.font26 {
+font-size:26px;
+}
+
+.font24 {
+font-size:24px;
+}
+
+.font22 {
+font-size:22px;
+}
+
+.font20 {
+font-size:20px;
+}
+
+.font18 {
+font-size:18px;
+}
+
+.font16 {
+font-size:16px;
+}
+
+.font14 {
+font-size:14px;
+}
+
+.font12 {
+font-size:12px;
+}
+
+.font10 {
+font-size:10px;
+}
+
+.font8 {
+font-size:8px;
+}
+
+
+/* Font weight
+----------------------------------------------- */
+
+span.light {
+opacity:.5
+}
+
+.medium {
+font-weight:600:;
+}
+
+.bold {
+font-weight: 800;
+}
+
+
+/* Forms
+----------------------------------------------- */
+
+button, input, optgroup, select, textarea {
+color: #000;
+margin: 0;
+}
+
+
+/* top content fix for header
+----------------------------------------------- */
+
+.topcontentfix, .topcontentfix p {
+font-size: 13px;
+font-weight:300;
+text-shadow:none; 
+}
+
+
+
+/* Nav Bar & menu
+----------------------------------------------- */
+
+nav {
+  text-shadow:none; 
+}
+
+.navbar-nav, .dropdown {
+font-size: 14px;
+}
+
+.navbar .dropdown-menu .carousel-inner h4, .navbar .dropdown-menu > li > a, .navbar .dropdown-submenu > li > a, .navbar .mega-dropdown-menu > li > ul > li > a {
+font-family: 'Open Sans', sans-serif;
+font-size: 12px;
+}
+
+.dropdown-menu > li > a, .dropdown-submenu > li > a {
+font-weight: 200;
+line-height: 1.428571429;
+}
+
+.navbar-brand {
+/*font-weight: normal;*/
+}
+
+.navbar-toggle {
+color: #fff;
+}
+
+.brand-heading {
+font-weight:900;
+margin-bottom: 10px;
+font-size: 40px;
+}
+
+.intro-text {
+font-size: 18px;
+}
+
+.home .navbar-custom a {
+color: #fff;
+}
+
+.top-nav-collapse .navbar-brand {
+color: #fff;
+}
+
+.navbar-nav .dropdown li.nav-header {
+border-top:1px dotted #5C4B51;
+line-height:1.8em;
+color:#5C4B51;
+list-style: none;
+border-bottom:1px dotted #5C4B51;
+}
+
+
+
+/* Slideshow
+----------------------------------------------- */
+
+.carousel-caption h1 span {
+  background-color: rgba(62,96,111,0.5);
+  padding:5px 10px;
+}
+
+
+
+/* Breadcrumb
+----------------------------------------------- */
+
+.breadcrumb {
+font-size:13px;
+}
+
+
+
+/* Blog
+----------------------------------------------- */
+
+h2.blog-post-title {
+margin-bottom:10px
+}
+
+.blog-post p {
+margin-bottom:15px
+}
+
+.blog-post {
+margin-bottom: 50px;
+}
+
+.sidebar-module {
+margin-bottom: 25px;
+}
+
+.sidebar-module h4 {
+font-size:16px;
+}
+
+.sidebar-module .archive li {
+line-height:1.4em;
+margin-bottom: 5px;
+padding-bottom: 5px;
+border-bottom:1px dotted #cfcfcf;
+}
+
+.sidebar-module .archive li:last-child {
+border-bottom:0;
+}
+
+section .blog-post small, section .blog-post .small {
+  display: block;
+  margin-bottom:10px;
+}
+
+
+
+/* Portfolio
+----------------------------------------------- */
+
+.portfolioContainer h4 {
+margin-bottom:10px;
+}
+
+
+
+/* Calendar
+----------------------------------------------- */
+
+.fc-grid th {
+  text-align: center;
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 1px
+}
+
+
+
+/* Re style bootstrap
+----------------------------------------------- */
+
+.well, .tags, label, .label, span.badge, .pagination a, kbd {
+  text-shadow:none;
+}
+
+h1.blog-title::before {
+content:"";
+width: 0;
+height: 0;
+position: relative;
+margin-top:10px;
+border-style: solid;
+border-width: 10px 10px 0 0;
+border-color: #3E606F transparent transparent transparent;
+}
+
+.intro-body {
+  text-shadow:none; 
+}
+
+#content .lead, #content2 .lead, #content3 .lead, #content4 .lead, #content5 .lead, #content6 .lead, #content7 .lead, #content8 .lead, #content9 .lead, #content10 .lead, #content11 .lead, #content12 .lead {
+  margin-bottom: 0;
+  text-shadow:none;
+}
+
+.blog-description {
+  font-size: 18px;
+}
+
+.nav-tabs .dropdown-menu {
+  font-size: 16px;
+}
+
+
+
+/* Footer
+----------------------------------------------- */
+
+footer {
+text-shadow:0; 
+}
+
+
+
+/* Responsives
+----------------------------------------------- */
+
+@media(max-width:767px) {
+
+p {
+font-size: 1em;
+}
+
+.intro-text {
+font-size: 1.2em;
+}
+
+}

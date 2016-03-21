@@ -1,0 +1,380 @@
+/* social media icons
+-------------------------------------------------- */
+
+.topcontentfix ul.banner-social-buttons>li {
+margin-bottom:0;
+}
+
+ul.banner-social-buttons>li {
+margin-bottom:12px;
+}
+
+.navbar ul.banner-social-buttons>li a:hover {
+color:#fff;border-radius:2px;
+}
+
+ul.banner-social-buttons>li a {
+padding: 2px;
+}
+
+footer ul.banner-social-buttons>li a {
+color:#fff;
+}
+
+ul.banner-social-buttons>li>a.font24 {
+width:28px;
+height: 28px;
+}
+
+ul.banner-social-buttons>li>a.font32 {
+width:36px;
+height: 36px;
+}
+
+ul.banner-social-buttons>li>a.font48 {
+width:52px;
+height: 52px;
+}
+
+.facebook {
+	background: #3b5998;
+	color:#fff;border-radius:2px;
+}
+
+.twitter {
+	background: #48c4d2;
+	color:#fff;border-radius:2px;
+}
+
+.google-plus {
+	background: #d94a39;
+	color:#fff;border-radius:2px;	
+}
+
+.github {
+	background: #3b5998;
+	color:#fff;border-radius:2px;	
+}
+
+.rss {
+	background: #fe9900;
+	color:#fff;border-radius:2px;	
+}
+
+.linkedin {
+	background: #71b2d0;
+	color:#fff;border-radius:2px;	
+}
+
+.pinterest {
+	background: #cb2027;
+	color:#fff;border-radius:2px;	
+}
+
+.xing {
+	background: #3b5998;
+	color:#fff;border-radius:2px;	
+}
+
+.dropbox {
+	background: #3b5998;
+	color:#fff;border-radius:2px;	
+}
+
+.youtube {
+	background: #f45750;
+	color:#fff;border-radius:2px;	
+}
+
+.bitbucket {
+	background: #3b5998;
+	color:#fff;border-radius:2px;	
+}
+
+.tumblr {
+	background: #3a5976;
+	color:#fff;border-radius:2px;	
+}
+
+.adn {
+	background: #3b5998;
+	color:#fff;border-radius:2px;	
+}
+
+.instagram {
+	background: #3b5998;
+	color:#fff;border-radius:2px;	
+}
+
+.stack-overflow {
+	background: #3b5998;
+	color:#fff;border-radius:2px;	
+}
+
+.apple {
+	background: #606060;
+	color:#fff;border-radius:2px;	
+}
+
+.windows {
+	background: #3b5998;
+	color:#fff;border-radius:2px;	
+}
+
+.linux {
+	background: #3b5998;
+	color:#fff;border-radius:2px;	
+}
+
+.dribbble {
+	background: #eb4d8a;
+	color:#fff;border-radius:2px;	
+}
+
+.skype {
+	background: #18b7f1;
+	color:#fff;border-radius:2px;	
+}
+
+.foursquare {
+	background: #0bbadf;
+	color:#fff;border-radius:2px;	
+}
+
+.trello {
+	background: #3b5998;
+	color:#fff;border-radius:2px;	
+}
+
+.gittip {
+	background: #3b5998;
+	color:#fff;border-radius:2px;	
+}
+
+.vk {
+	background: #3b5998;
+	color:#fff;border-radius:2px;	
+}
+
+.weibo {
+	background: #3b5998;
+	color:#fff;border-radius:2px;	
+}
+
+.renren {
+	background: #3b5998;
+	color:#fff;border-radius:2px;	
+}
+
+.pagelines {
+	background: #3b5998;
+	color:#fff;border-radius:2px;	
+}
+
+.vimeo {
+	background: #62a0ad;
+	color:#fff;border-radius:2px;	
+}
+
+ul.banner-social-buttons>li a.facebook:hover,  
+ul.banner-social-buttons>li a.twitter:hover,  
+ul.banner-social-buttons>li a.google-plus:hover,  
+ul.banner-social-buttons>li a.github:hover,  
+ul.banner-social-buttons>li a.rss:hover,  
+ul.banner-social-buttons>li a.linkedin:hover,  
+ul.banner-social-buttons>li a.pinterest:hover,  
+ul.banner-social-buttons>li a.xing:hover,  
+ul.banner-social-buttons>li a.dropbox:hover,  
+ul.banner-social-buttons>li a.youtube:hover,  
+ul.banner-social-buttons>li a.bitbucket:hover,  
+ul.banner-social-buttons>li a.tumblr:hover,  
+ul.banner-social-buttons>li a.adn:hover,  
+ul.banner-social-buttons>li a.instagram:hover,  
+ul.banner-social-buttons>li a.stack-overflow:hover,  
+ul.banner-social-buttons>li a.apple:hover,  
+ul.banner-social-buttons>li a.windows:hover,  
+ul.banner-social-buttons>li a.linux:hover,  
+ul.banner-social-buttons>li a.dribbble:hover,  
+ul.banner-social-buttons>li a.skype:hover,  
+ul.banner-social-buttons>li a.foursquare:hover,  
+ul.banner-social-buttons>li a.trello:hover,  
+ul.banner-social-buttons>li a.gittip:hover,  
+ul.banner-social-buttons>li a.vk:hover,  
+ul.banner-social-buttons>li a.weibo:hover,  
+ul.banner-social-buttons>li a.renren:hover,  
+ul.banner-social-buttons>li a.pagelines:hover,  
+ul.banner-social-buttons>li a.vimeo:hover {
+	color:#333;
+}
+
+.soc-style2 a.facebook,  
+.soc-style2 a.twitter,  
+.soc-style2 a.google-plus,  
+.soc-style2 a.github,  
+.soc-style2 a.rss,  
+.soc-style2 a.linkedin,  
+.soc-style2 a.pinterest,  
+.soc-style2 a.xing,  
+.soc-style2 a.dropbox,  
+.soc-style2 a.youtube,  
+.soc-style2 a.bitbucket,  
+.soc-style2 a.tumblr,  
+.soc-style2 a.adn,  
+.soc-style2 a.instagram,  
+.soc-style2 a.stack-overflow,  
+.soc-style2 a.apple,  
+.soc-style2 a.windows,  
+.soc-style2 a.linux,  
+.soc-style2 a.dribbble,  
+.soc-style2 a.skype,  
+.soc-style2 a.foursquare,  
+.soc-style2 a.trello,  
+.soc-style2 a.gittip,  
+.soc-style2 a.vk,  
+.soc-style2 a.weibo,  
+.soc-style2 a.renren,  
+.soc-style2 a.pagelines,  
+.soc-style2 a.vimeo {
+	background:transparent;
+}
+
+.soc-style2 .facebook:hover {
+	background: #3b5998;
+	color:#fff;border-radius:2px;
+}
+
+.soc-style2 .twitter:hover {
+	background: #48c4d2;
+	color:#fff;border-radius:2px;
+}
+
+.soc-style2 .google-plus:hover {
+	background: #d94a39;
+	color:#fff;border-radius:2px;	
+}
+
+.soc-style2 .github:hover {
+	background: #3b5998;
+	color:#fff;border-radius:2px;	
+}
+
+.soc-style2 .rss:hover {
+	background: #fe9900;
+	color:#fff;border-radius:2px;	
+}
+
+.soc-style2 .linkedin:hover {
+	background: #71b2d0;
+	color:#fff;border-radius:2px;	
+}
+
+.soc-style2 .pinterest:hover {
+	background: #cb2027;
+	color:#fff;border-radius:2px;	
+}
+
+.soc-style2 .xing:hover {
+	background: #3b5998;
+	color:#fff;border-radius:2px;	
+}
+
+.soc-style2 .dropbox:hover {
+	background: #3b5998;
+	color:#fff;border-radius:2px;	
+}
+
+.soc-style2 .youtube:hover {
+	background: #f45750;
+	color:#fff;border-radius:2px;	
+}
+
+.soc-style2 .bitbucket:hover {
+	background: #3b5998;
+	color:#fff;border-radius:2px;	
+}
+
+.soc-style2 .tumblr:hover {
+	background: #3a5976;
+	color:#fff;border-radius:2px;	
+}
+
+.soc-style2 .adn:hover {
+	background: #3b5998;
+	color:#fff;border-radius:2px;	
+}
+
+.soc-style2 .instagram:hover {
+	background: #3b5998;
+	color:#fff;border-radius:2px;	
+}
+
+.soc-style2 .stack-overflow:hover {
+	background: #3b5998;
+	color:#fff;border-radius:2px;	
+}
+
+.soc-style2 .apple:hover {
+	background: #606060;
+	color:#fff;border-radius:2px;	
+}
+
+.soc-style2 .windows:hover {
+	background: #3b5998;
+	color:#fff;border-radius:2px;	
+}
+
+.soc-style2 .linux:hover {
+	background: #3b5998;
+	color:#fff;border-radius:2px;	
+}
+
+.soc-style2 .dribbble:hover {
+	background: #eb4d8a;
+	color:#fff;border-radius:2px;	
+}
+
+.soc-style2 .skype:hover {
+	background: #18b7f1;
+	color:#fff;border-radius:2px;	
+}
+
+.soc-style2 .foursquare:hover {
+	background: #0bbadf;
+	color:#fff;border-radius:2px;	
+}
+
+.soc-style2 .trello:hover {
+	background: #3b5998;
+	color:#fff;border-radius:2px;	
+}
+
+.soc-style2 .gittip:hover {
+	background: #3b5998;
+	color:#fff;border-radius:2px;	
+}
+
+.soc-style2 .vk:hover {
+	background: #3b5998;
+	color:#fff;border-radius:2px;	
+}
+
+.soc-style2 .weibo:hover {
+	background: #3b5998;
+	color:#fff;border-radius:2px;	
+}
+
+.soc-style2 .renren:hover {
+	background: #3b5998;
+	color:#fff;border-radius:2px;	
+}
+
+.soc-style2 .pagelines:hover {
+	background: #3b5998;
+	color:#fff;border-radius:2px;	
+}
+
+.soc-style2 .vimeo:hover {
+	background: #62a0ad;
+	color:#fff;border-radius:2px;	
+}
+

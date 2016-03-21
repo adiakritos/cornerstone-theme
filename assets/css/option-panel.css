@@ -1,0 +1,74 @@
+#menu{
+  transition: all 0.3s ease;
+  position: fixed;
+  text-align: center;
+  top: 80px;
+  left: -180px;
+  background: #eee;
+  z-index: 8200;
+}
+
+#menu .logopanel {
+  width:25px;
+  margin-bottom: 0px;
+}
+
+#menu h5{
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+#menu p{
+  font-size:15px;  
+  margin-bottom: 5px;
+}
+
+#menu hr {
+margin: .8em 0;
+border: 0;
+border-top: none;
+border-bottom: 1px solid #ccc;
+}
+
+#menu div.margin{
+  display: block;
+  margin: 20px;
+}
+
+#menu a{
+  margin:0 2px;
+  font-size:14px;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+#menu a:hover{
+  color:#fff;
+  background: rgb(50, 50, 50);
+}
+
+#menu-toggle{
+  position: fixed;
+  top: 80px;
+  left: 0;
+  background: #eee ;
+  z-index: 8000;
+  padding: 8px 10px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  transition: all 0.3s ease;
+}
+
+#menu-toggle:hover{
+  cursor: pointer;
+}
+
+#menu.open{
+  left: 0;
+  width: 180px;
+  display: block;
+}
+
+#menu-toggle.open{
+  left: 180px;
+}

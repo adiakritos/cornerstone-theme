@@ -1,0 +1,218 @@
+/* navbar menu
+----------------------------------------------- */
+
+nav {
+  position: relative;
+  z-index: 30000;
+}
+
+.navbar {
+  margin-bottom: 0;
+  background-color: #3E606F;
+}
+
+.navbar-brand {
+    display: block;
+    width: 100%;
+    text-align:center;
+    line-height:50px;
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size:35px;
+    color:#f2f2f2;
+}
+
+.navbar-brand:focus {
+  outline: 0;
+}
+
+
+.navbar-toggle {
+  padding: 4px 6px;
+  color:#92cdcf;
+}
+
+.navbar-toggle:focus,
+.navbar-toggle:active {
+  outline: 0;
+}
+
+
+
+/* overlay hover menu
+----------------------------------------------- */
+
+.bgsheet {
+    position:fixed;
+    width:100%;
+    top:0;
+    left:0;
+    height:100%;
+    background: #000;
+    opacity:.7;
+    overflow: hidden;
+    z-index:201;
+}
+
+.hideout {
+    display:none;
+}
+
+
+
+/* dropdown menu
+----------------------------------------------- */
+
+.dropdown {
+  position:relative;
+}
+
+.dropdown-menu {
+  padding: 10px;
+  margin: 0;
+  float: left;
+  background-color: #fff;
+  width:210px;
+  position:absolute;
+  z-index: 1000;
+  border-radius: 0;
+  border:0;
+  -webkit-box-shadow: -3px 5px 10px 0px rgba(0,0,0,0.45);
+  -moz-box-shadow: -3px 5px 10px 0px rgba(0,0,0,0.45);
+  box-shadow: -3px 5px 10px 0px rgba(0,0,0,0.45);
+  }
+
+  .dropdown .dropdown-menu span.caret {
+    float: right;
+    position: relative;
+    top:7px;
+  }
+
+.dropdown-submenu {
+    position: absolute;
+    display: none;
+    top: 0;
+    left: 209px;
+    z-index: 999;
+    float: left;
+    width: 270px;
+    padding: 10px;
+    margin: 0;
+    font-size: 14px;
+    text-align: left;
+    list-style: none;
+    background-color: #fff;
+    min-height:100px;
+    height:100%;
+    -webkit-box-shadow: 3px 5px 10px 0px rgba(0,0,0,0.45);
+    -moz-box-shadow: 3px 5px 10px 0px rgba(0,0,0,0.45);
+    box-shadow: 3px 5px 10px 0px rgba(0,0,0,0.45);
+}
+
+.submenuimage {
+  position: absolute;
+  bottom:0;
+}
+
+.submenuimage img {
+  width:350px;
+}
+
+.dropdown:hover > .dropdown-menu, .dropdown-menu li:hover > .dropdown-submenu {
+  display: block;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.dropdown-menu > li > a, .dropdown-submenu > li > a {
+  float: left;
+  width: 100%;
+  padding: 4px 0;
+  display: block;
+  white-space: normal;
+  border-bottom:1px dotted #ddd;
+}
+
+
+.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover, .dropdown-submenu>li>a:focus, .dropdown-submenu>li>a:hover {
+  color: #92cdcf;
+  text-decoration: none;
+  background-color: #eee;
+  text-indent: 10px;
+}
+
+
+/* Mega Menu Style
+----------------------------------------------- */
+
+.mega-dropdown {
+padding:0;
+position: static !important;
+z-index:1000;
+}
+
+.mega-dropdown-menu {
+  padding: 20px 0;
+  width: 100%;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+}
+
+.mega-dropdown-menu > li > ul {
+padding: 0;
+margin: 0;
+}
+
+.mega-dropdown-menu > li > ul > li {
+list-style: none;
+}
+
+.mega-dropdown-menu > li > ul > li > a {
+display: block;
+padding: 8px 0 4px 0;
+clear: both;
+font-weight: 200;
+line-height: 1.428571429;
+white-space: normal;
+border-bottom:1px dotted #ddd;
+}
+
+.mega-dropdown-menu > li ul > li > a:hover,
+.mega-dropdown-menu > li ul > li > a:focus {
+text-decoration: none;
+text-indent: 10px;
+}
+
+.mega-dropdown-menu .dropdown-header {
+padding: 6px 0 4px 0;
+margin-top: 10px;
+float: left;
+width:100%;
+font-weight:300;
+border-bottom:1px dotted #ddd;
+}
+
+.dropdown .dropdown-menu .dropdown-header {
+padding: 6px 0 4px 0;
+font-weight:300;
+float: left;
+width: 100%;
+white-space: normal; 
+border-bottom:1px dotted #ddd;
+}
+
+li.dropdown-header:first-child {
+margin-top: 0;
+}
+
+.mega-dropdown-menu form {
+  margin:3px 20px;
+}
+
+.mega-dropdown-menu .form-group {
+  margin-bottom: 3px;
+}
+
+.mega-dropdown-menu .carousel p {
+  margin:0;
+}
