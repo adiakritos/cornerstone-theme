@@ -4,6 +4,7 @@
     <div class="row">
       <div class="col-xs-12 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3" role="tabpanel">
         <div class="col-xs-4 col-sm-12">
+          <h1>Meet Our Staff</h1>
           <!-- Nav tabs -->
           <ul class="nav nav-justified" id="nav-tabs" role="tablist">
             <li role="presentation" class="active">

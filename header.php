@@ -21,3 +21,5 @@
     <link rel="stylesheet" type="text/css" href="<? echo get_template_directory_uri() ?>/assets/css/option-panel.css" />
 
     <link href="<? echo get_template_directory_uri() ?>/assets/minify/minified.css.php" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="<? echo get_template_directory_uri() ?>/assets/css/main.css" />
