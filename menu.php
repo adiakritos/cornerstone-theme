@@ -54,20 +54,20 @@
         <ul class="dropdown-menu mega-dropdown-menu row">
 
           <li class="col-md-2">
-          <p class="text-center"><img src="../assets/images/band-logo.png" width="50"></p>
+          <p class="text-center"><img src="<? echo get_template_directory_uri() ?>/assets/images/band-logo.png" width="50"></p>
           <ul>
             <div id="menCollection" class="carousel slide" data-ride="carousel">
               <div class="carousel-inner">
                 <div class="item active text-center">
-                  <p><a href="#"><img src="../assets/images/album-2.jpg" class="img-responsive" alt="product 1"></a></p>
+                    <p><a href="#"><img src="<? echo get_template_directory_uri() ?>/assets/images/album-2.jpg" class="img-responsive" alt="product 1"></a></p>
                 </div><!-- End Item -->
 
                 <div class="item text-center">
-                  <p><a href="#"><img src="../assets/images/album-3.jpg" class="img-responsive" alt="product 2"></a></p>
+                    <p><a href="#"><img src="<? echo get_template_directory_uri() ?>/assets/images/album-3.jpg" class="img-responsive" alt="product 2"></a></p>
                 </div><!-- End Item -->
 
                 <div class="item text-center">
-                  <p><a href="#"><img src="../assets/images/album-4.jpg" class="img-responsive" alt="product 3"></a></p>
+                    <p><a href="#"><img src="<? echo get_template_directory_uri() ?>/assets/images/album-4.jpg" class="img-responsive" alt="product 3"></a></p>
                 </div><!-- End Item -->
 
               </div><!-- End Carousel Inner -->
@@ -162,7 +162,7 @@
           <ul class="dropdown-submenu">
             <li><a href="../cover/">&#8250;&nbsp;&nbsp;Cover 01</a></li>
             <li><a href="../cover/index-2.php">&#8250;&nbsp;&nbsp;Cover 02</a></li>
-            <li><div class="submenuimage"><img src="../assets/images/menu/1.png" class="full"></div></li>
+            <li><div class="submenuimage"><img src="<? echo get_template_directory_uri() ?>/assets/images/menu/1.png" class="full"></div></li>
           </ul>
           </li>
 
@@ -171,7 +171,7 @@
           <ul class="dropdown-submenu">
             <li><a href="../error/">&#8250;&nbsp;&nbsp;Error page</a></li>
             <li><a href="../error/index-2.php">&#8250;&nbsp;&nbsp;Under Construction</a></li>
-            <li><div class="submenuimage"><img src="../assets/images/menu/2.png" class="full"></div></li>
+            <li><div class="submenuimage"><img src="<? echo get_template_directory_uri() ?>/assets/images/menu/2.png" class="full"></div></li>
           </ul>
           </li>
 
@@ -183,7 +183,7 @@
             <li><a role="menuitem" href="">&#8250;&nbsp;&nbsp;Social Media Icons</a></li>
             <li><a role="menuitem" href="">&#8250;&nbsp;&nbsp;Payment Icons</a></li>
             <li><a role="menuitem" href="">&#8250;&nbsp;&nbsp;Font Awesome Icons</a></li>
-            <li><div class="submenuimage"><img src="../assets/images/menu/3.png" class="full"></div></li>
+            <li><div class="submenuimage"><img src="<? echo get_template_directory_uri() ?>/assets/images/menu/3.png" class="full"></div></li>
           </ul>
           </li>
 
@@ -195,7 +195,7 @@
             <li><a role="menuitem" href="">&#8250;&nbsp;&nbsp;Google Maps</a></li>
             <li><a role="menuitem" href="">&#8250;&nbsp;&nbsp;Facebook Comments</a></li>
             <li><a role="menuitem" href="">&#8250;&nbsp;&nbsp;Flickr Images</a></li>
-            <li><div class="submenuimage"><img src="../assets/images/menu/4.png" class="full"></div></li>
+            <li><div class="submenuimage"><img src="<? echo get_template_directory_uri() ?>/assets/images/menu/4.png" class="full"></div></li>
           </ul>
           </li>
         </ul>

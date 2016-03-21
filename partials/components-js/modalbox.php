@@ -7,7 +7,7 @@
                 <h4 class="modal-title" id="myModalLabel">Title 01</h4>
             </div>
             <div class="modal-body text-center">
-                <p><img src="../assets/images/1.jpg" alt="img01" width="70%" /></p>
+                <p><img src="<? echo get_template_directory_uri() ?>/assets/images/1.jpg" alt="img01" width="70%" /></p>
                 <p>
                 Hey Kids site template is a beautifully designed bootstrap template.
                 </p>
@@ -29,7 +29,7 @@
                 <h4 class="modal-title" id="myModalLabel">Title 02</h4>
             </div>
             <div class="modal-body text-center">
-                <img src="../assets/images/1.jpg" alt="img02" width="90%" />
+                <img src="<? echo get_template_directory_uri() ?>/assets/images/1.jpg" alt="img02" width="90%" />
             </div>
             <div class="modal-footer">
                 <span class="buttons"><a href="#" title="facebook" class="btn btn-default fb"><i class="fa fa-facebook fa-fw"></i></a> <a href="#" title="Twitter" class="btn btn-default tw"><i class="fa fa-twitter fa-fw"></i></a> <a href="#" title="Google+" class="btn btn-default gp"><i class="fa fa-google-plus fa-fw"></i></a></span>

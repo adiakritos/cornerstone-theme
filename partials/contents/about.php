@@ -8,25 +8,25 @@
           <ul class="nav nav-justified" id="nav-tabs" role="tablist">
             <li role="presentation" class="active">
             <a href="#dustin" aria-controls="dustin" role="tab" data-toggle="tab">
-              <img class="img-circle" src="../assets/images/man-01.jpg" />
+              <img class="img-circle" src="<? echo get_template_directory_uri() ?>/assets/images/man-01.jpg" />
               <span class="quote"><i class="fa fa-quote-left"></i></span>
             </a>
             </li>
             <li role="presentation" class="">
             <a href="#daksh" aria-controls="daksh" role="tab" data-toggle="tab">
-              <img class="img-circle" src="../assets/images/man-02.jpg" />
+              <img class="img-circle" src="<? echo get_template_directory_uri() ?>/assets/images/man-02.jpg" />
               <span class="quote"><i class="fa fa-quote-left"></i></span>
             </a>
             </li>
             <li role="presentation" class="">
             <a href="#anna" aria-controls="anna" role="tab" data-toggle="tab">
-              <img class="img-circle" src="../assets/images/woman-01.jpg" />
+              <img class="img-circle" src="<? echo get_template_directory_uri() ?>/assets/images/woman-01.jpg" />
               <span class="quote"><i class="fa fa-quote-left"></i></span>
             </a>
             </li>
             <li role="presentation" class="">
             <a href="#wafer" aria-controls="wafer" role="tab" data-toggle="tab">
-              <img class="img-circle" src="../assets/images/woman-02.jpg" />
+              <img class="img-circle" src="<? echo get_template_directory_uri() ?>/assets/images/woman-02.jpg" />
               <span class="quote"><i class="fa fa-quote-left"></i></span>
             </a>
             </li>
