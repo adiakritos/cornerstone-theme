@@ -26,6 +26,7 @@
 
       <? get_template_part('partials/giving'); ?>
 
+      <? get_template_part('partials/contact'); ?>
 
       <? get_footer(); ?>
 
