@@ -10,12 +10,13 @@
         </div>
       </div>
       <?php dynamic_sidebar( 'home_ministries' ); ?>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
     </div>
   </div>
-</section>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  </section>

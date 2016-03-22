@@ -64,7 +64,6 @@
     ) );
   }
   add_action( 'widgets_init', 'custom_widgets' );
-
   add_filter('widget_text', 'do_shortcode');
 
 

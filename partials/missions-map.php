@@ -10,12 +10,12 @@
         </div>
       </div>
       <?php dynamic_sidebar( 'home_missions' ); ?>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
     </div>
   </div>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
 </section>

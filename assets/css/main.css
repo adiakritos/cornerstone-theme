@@ -17,3 +17,24 @@
 .full-map {
   padding-top: 0px;
 }
+
+.copyright-container {
+  background-color: #001d1d;
+  padding: 30px 0;
+  margin-top: 80px;
+}
+
+footer {
+  padding-bottom: 0px;
+  border-bottom: 0px;
+}
+
+footer .copyright-container a,
+footer .copyright-container span {
+  color: white;
+}
+
+footer .copyright-container p {
+  color: #8E8E8E;
+  margin-bottom: 0px;
+}

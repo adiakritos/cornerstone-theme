@@ -14,9 +14,11 @@
 
       <? get_template_part('partials/staff'); ?>
 
+      <? get_template_part('partials/recent-sermons'); ?>
+
       <? get_template_part('partials/ministries'); ?>
 
-      <? get_template_part('partials/recent-sermons'); ?>
+      <? get_template_part('partials/aerial-map'); ?>
 
       <? get_template_part('partials/upcoming-events'); ?>
 
@@ -24,7 +26,6 @@
 
       <? get_template_part('partials/giving'); ?>
 
-      <? get_template_part('partials/aerial-map'); ?>
 
       <? get_footer(); ?>
 
