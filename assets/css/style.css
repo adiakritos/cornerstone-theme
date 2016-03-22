@@ -1107,12 +1107,10 @@ hr {
     width:100%
   }
 
-
   .placeholder img {
     display: inline-block;
     border-radius: 50%;
   }
-
 
 
   /* Cover Style
@@ -1216,7 +1214,6 @@ hr {
   }
 
 
-
   /* parallax css
   ----------------------------------------------- */
 
@@ -1237,7 +1234,6 @@ hr {
     word-wrap: normal;
     white-space: pre;
   }
-
 
 
   /* Icons
@@ -1281,7 +1277,6 @@ hr {
     margin: 22px auto;
   }
 
-
   .icon64, .icon48, .icon32, .icon24 {
     color:#193441;
   }
@@ -1301,7 +1296,6 @@ hr {
   .icon24 {
     font-size: 24px;
   }
-
 
 
   /* Testimonial Carousel and Shop Carousel
@@ -1347,7 +1341,6 @@ hr {
   #carousel-testimonial .carousel-inner, #shop-carousel .carousel-inner {
     display:block;
   }
-
 
 
   /* intro
@@ -1507,7 +1500,6 @@ hr {
   }
 
   @media (min-width: 900px) {
-
     .intro {
       background-color: #3E606F;
       -webkit-background-size: cover;
@@ -1532,4 +1524,3 @@ hr {
       border-bottom:1px dotted #014e4e;
     }
   }
-

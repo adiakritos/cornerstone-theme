@@ -411,17 +411,6 @@ section .blog-post small, section .blog-post .small {
   text-shadow:none;
 }
 
-h1.blog-title::before {
-  content:"";
-  width: 0;
-  height: 0;
-  position: relative;
-  margin-top:10px;
-  border-style: solid;
-  border-width: 10px 10px 0 0;
-  border-color: #3E606F transparent transparent transparent;
-}
-
 .intro-body {
   text-shadow:none;
 }

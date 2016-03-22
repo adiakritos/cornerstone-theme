@@ -1,3 +1,19 @@
-section.remove-top-padding {
+.mission {
+  padding-top: 0px;
+}
+
+/* portfolio grid */
+
+.wpb_portfolio_area img {
+  -webkit-filter: grayscale(0%);
+  filter: grayscale(0%);
+}
+
+.textwidget {
+  float: left;
+  width: 100%;
+}
+
+.full-map {
   padding-top: 0px;
 }
