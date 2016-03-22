@@ -1,10 +1,12 @@
 <div class="blog-header text-center">
-    <h1 class="blog-title"><span class="light">Contact</span> Us</h1>
-    <div class="col-lg-12 col-xs-12">
-        <div>
-            <div class="margin">Blocknote site template is a beautifully designed bootstrap template.</div>
-        </div>
+  <h1 class="blog-title"><span class="light">Contact</span> Us</h1>
+  <div class="col-lg-12 col-xs-12">
+    <div>
+      <div class="margin">
+        <p class="big-letters">Blocknote site template is a beautifully designed bootstrap template.</p>
+      </div>
     </div>
+  </div>
 </div>
 <div class="clear"></div><br />
 

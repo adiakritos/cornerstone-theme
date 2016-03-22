@@ -37,7 +37,6 @@
     wp_enqueue_script('tooltip',            get_template_directory_uri() . '/assets/js/tooltip.js',            array('jquery'), '', true);
     wp_enqueue_script('buttons',            get_template_directory_uri() . '/assets/js/buttons.js',            array('jquery'), '', true);
     wp_enqueue_script('background_overlay', get_template_directory_uri() . '/assets/js/background_overlay.js', array('jquery'), '', true);
-    wp_enqueue_script('ticker',             get_template_directory_uri() . '/assets/js/ticker.js',             array('jquery'), '', true);
   }
   add_action('wp_enqueue_scripts', 'custom_theme_assets');
 

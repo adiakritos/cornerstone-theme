@@ -7,7 +7,9 @@
           <h1 class="blog-title"><span class="light">Our</span> Mission</h1>
           <div class="col-lg-12 col-xs-12">
             <div class="margin">
-              <div class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</div>
+              <div class="text-center ">
+                <p class="big-letters">Whether you’re young, old, in between, male, female, single or married, there is a place for you! Feel like part of the family here at Cornerstone.</p>
+              </div>
             </div>
           </div>
         </div>

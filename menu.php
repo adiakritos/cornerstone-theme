@@ -12,16 +12,6 @@
                 <li><a href="" title="google+"><i class="fa fa-google-plus fa-fw"></i></a></li>
                 <li><a href="" title="github"><i class="fa fa-github fa-fw"></i></a></li>
               </ul>
-
-              <div id="newsticker">
-                <ul>
-                  <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></li>
-                  <li><a href="#">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</a></li>
-                  <li><a href="#"> Excepteur sint occaecat cupidatat non proident.</a></li>
-                  <li><a href="#">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.</a></li>
-                </ul>
-              </div>
-
             </div>
           </div>
         </div>
@@ -30,11 +20,15 @@
   </div>
 
   <div class="container">
+    <div class="logo-container">
+      <img class="logo" src="<? echo get_template_directory_uri() ?>/assets/images/church-logo.png" alt="">
+    </div>
+
+
     <div class="navbar-header page-scroll">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
         <i class="fa fa-bars"></i>
       </button>
-      <a href="./#page-top"><div class="ribbon"><span class="logoribbon"></span></div></a>
     </div>
 
     <div class="collapse navbar-collapse navbar-right navbar-main-collapse">

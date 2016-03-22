@@ -2,13 +2,6 @@
   padding-top: 0px;
 }
 
-/* portfolio grid */
-
-.wpb_portfolio_area img {
-  -webkit-filter: grayscale(0%);
-  filter: grayscale(0%);
-}
-
 .textwidget {
   float: left;
   width: 100%;
@@ -45,4 +38,66 @@ footer .copyright-container p {
 
 .navbar.top-nav-collapse2 {
   background-color: #3E606F;
+}
+
+.mapplic-container {
+  background-color: #F0F0F0 !important;
+}
+
+.nav>li>a {
+  z-index: 20;
+  font-weight: bold;
+}
+
+.eg-jefferson-container {
+  background-color: #13C0BA;
+}
+
+#newsticker a {
+  font-weight: bold;
+}
+
+body p {
+  font-size: 16px;
+}
+
+img {
+  -webkit-filter: grayscale(0%);
+  filter: grayscale(0%);
+}
+
+p.big-letters  {
+  font-size: 25px;
+  font-weight: lighter;
+  diplay: block;
+  margin: 0 auto;
+  max-width: 780px;
+  padding: 0 20px;
+  line-height: 1.7;
+}
+
+.logo-container .logo {
+  width: 183px;
+  float: left;
+  margin: 11px 0 13px;
+  transition: all 0.2s ease;
+}
+
+@media (min-width: 768px) {
+  .navbar .navbar-right {
+    margin-top: 12px;
+  }
+
+  .navbar.top-nav-collapse2 .navbar-right {
+    margin-top: 12px;
+  }
+
+  .navbar.top-nav-collapse2 .logo {
+    width: 140px;
+  }
+
+}
+
+.parallax-container {
+  background: none;
 }

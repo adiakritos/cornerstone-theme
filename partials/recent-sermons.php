@@ -4,11 +4,12 @@
       <div class="container">
 
         <div class="blog-header text-center">
-          <div class="glyph-icon flaticon-trumpet9 icon24"></div>
-          <h1 class="blog-title"><span class="light">Recent</span> Sermons</h1>
+          <h1 class="blog-title"><span class="light">The</span> Message</h1>
           <div class="col-lg-12 col-xs-12">
             <div class="margin">
-              <div class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</div>
+              <div class="text-center">
+                <p class="big-letters">Pastor Mark or special guest will preach a message, which is based on Scriptures, and we endeavor to hear with open ears and hearts.</p>
+              </div>
             </div>
           </div>
         </div>
@@ -21,7 +22,7 @@
                 <div class="margin">
                   <h3>LEADERSHIP ACCORDING TO JESUS</h3>
                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit dolore magna aliqua.</p>
-                  <p><button type="button" class="btn btn-default">Music</button></p>
+                  <p><button type="button" class="btn btn-default">Watch Sermon</button></p>
                 </div>
               </div>
             </div>
@@ -69,7 +70,7 @@
                 <div class="margin">
                   <h3>LOVING OUT LOUD!</h3>
                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit dolore magna aliqua.</p>
-                  <p><button type="button" class="btn btn-default">Gallery</button></p>
+                  <p><button type="button" class="btn btn-default">Watch Sermon</button></p>
                 </div>
               </div>
             </div>
@@ -82,7 +83,7 @@
                 <div class="margin">
                   <h3>WHAT JESUS SAID ABOUT LOVING MOM.</h3>
                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit dolore magna aliqua.</p>
-                  <p><button type="button" class="btn btn-default">Channel</button></p>
+                  <p><button type="button" class="btn btn-default">Watch Sermon</button></p>
                 </div>
               </div>
             </div>
