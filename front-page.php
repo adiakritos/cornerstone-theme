@@ -1,5 +1,4 @@
-  <? get_header(); ?>
-
+    <? get_header(); ?>
   </head>
   <body id="page-top" data-spy="scroll" data-target=".navbar-custom" class="landingpage">
     <div id="landingpage">

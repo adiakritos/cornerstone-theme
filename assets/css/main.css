@@ -38,3 +38,11 @@ footer .copyright-container p {
   color: #8E8E8E;
   margin-bottom: 0px;
 }
+
+.navbar {
+  background-color: rgba(255, 255, 255, 0.94);
+}
+
+.navbar.top-nav-collapse2 {
+  background-color: #3E606F;
+}
