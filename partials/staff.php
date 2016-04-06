@@ -59,7 +59,6 @@
                     <div role="tabpanel" class="tab-pane fade" id="anna">
                       <div class="tab-inner">
                         <p class="lead">Nullam suscipit ante ac arcu placerat, nec sagittis quam volutpat. Vestibulum aliquam facilisis velit ut ultrices.</p>
-                        <hr>
                         <p><strong class="text-uppercase">Anna Pickard</strong></p>
                         <p><small><em class="text-capitalize"> Master web developer</em> at <a href="#">Intel</a></small></p>
                       </div>

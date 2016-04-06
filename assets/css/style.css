@@ -12,14 +12,6 @@ body {
   color:#3E606F;
   /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f2f2f2+0,eeeeee+100 */
   background: #f2f2f2; /* Old browsers */
-  background: -moz-linear-gradient(top,  #f2f2f2 0%, #eeeeee 100%); /* FF3.6+ */
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f2f2f2), color-stop(100%,#eeeeee)); /* Chrome,Safari4+ */
-  background: -webkit-linear-gradient(top,  #f2f2f2 0%,#eeeeee 100%); /* Chrome10+,Safari5.1+ */
-  background: -o-linear-gradient(top,  #f2f2f2 0%,#eeeeee 100%); /* Opera 11.10+ */
-  background: -ms-linear-gradient(top,  #f2f2f2 0%,#eeeeee 100%); /* IE10+ */
-  background: linear-gradient(to bottom,  #f2f2f2 0%,#eeeeee 100%); /* W3C */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f2f2', endColorstr='#eeeeee',GradientType=0 ); /* IE6-9 */
-  background-position:fixed;
 }
 
 html {

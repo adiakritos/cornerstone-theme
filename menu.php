@@ -12,6 +12,14 @@
                 <li><a href="" title="google+"><i class="fa fa-google-plus fa-fw"></i></a></li>
                 <li><a href="" title="github"><i class="fa fa-github fa-fw"></i></a></li>
               </ul>
+              <div id="newsticker">
+                <ul>
+                  <li><a href="#">Join Us for one of our Easter Serives at Sunday March 27 7:30 AM, 9:00 AM, 11:00 AM.</a></li>
+                  <li><a href="#">Pray for Brussels.</a></li>
+                  <li><a href="#">Checkout the latest message from Pastor Mark.</a></li>
+                  <li><a href="#">Registration for CCA closes July 31st.</a></li>
+                </ul>
+              </div>
             </div>
           </div>
         </div>

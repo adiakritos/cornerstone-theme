@@ -101,3 +101,8 @@ p.big-letters  {
 .parallax-container {
   background: none;
 }
+
+article.esg-filters.esg-multiplefilters {
+  padding: 16px 0 0px;
+  margin-bottom: 12px !important;
+}
